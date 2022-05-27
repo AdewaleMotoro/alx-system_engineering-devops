@@ -1,2 +1,2 @@
-#!/bin
-echo 'ln -s 
+#!/bin/bash
+echo ln -s 
