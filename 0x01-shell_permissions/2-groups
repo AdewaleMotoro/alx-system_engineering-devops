@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 groups
-=======
-echo "groups"
->>>>>>> 87533e182256753fe6499a8896f24b5838735dfb
